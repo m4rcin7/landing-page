@@ -28,7 +28,7 @@ Landing page - agency. Responsive and modern design.
 You can clone this project :
 
 ```bash
-    git clone https://github.com/markopersonally/landing-page.git
+    git clone https://github.com/m4rcin7/landing-page.git
     npm install -D tailwindcss
 ```
     
